@@ -5,9 +5,26 @@
 grade = float(input('Enter a number: '))
 if 101>grade>92:
     print('You earned an A')
-if 93>grade>92:
-    print('You earned an A')
-if 101>grade>92:
-    print('You earned an A')
-if 101>grade>92:
-    print('You earned an A')
+elif grade>92:
+    print('You earned an A-')
+elif grade>86:
+    print('You earned an B+')
+elif grade>82:
+    print('You earned an B')
+elif grade>79:
+    print('You earned an B-')
+elif grade>76:
+    print('You earned an C+')
+elif grade>72:
+    print('You earned an C')
+elif grade>69:
+    print('You earned an C-')
+elif grade>66:
+    print('You earned an D+')
+elif grade>62:
+    print('You earned an D')
+elif grade>59:
+    print('You earned an D-')
+elif grade>0:
+    print('Get out.')
+    
