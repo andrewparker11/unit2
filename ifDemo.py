@@ -7,7 +7,7 @@ if num>0:
     print(num, 'is positive')
 elif num<0:
     print(num, 'is negetive')
-elif num==0:
+else num==0:
     print(num, 'is zero')
     
     
