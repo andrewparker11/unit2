@@ -19,12 +19,6 @@ elif grade>72:
     print('You earned an C')
 elif grade>69:
     print('You earned an C-')
-elif grade>66:
-    print('You earned an D+')
-elif grade>62:
-    print('You earned an D')
-elif grade>59:
-    print('You earned an D-')
 elif grade>0:
     print('Get out.')
     
