@@ -10,5 +10,5 @@ elif num<0:
 else num==0:
     print(num, 'is zero')
     
-    
+
     
