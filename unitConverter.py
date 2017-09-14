@@ -9,13 +9,13 @@ print(' 4)Celsius to Fahrenheit ')
 print(' Choose a number: ')
 
 uc = int(input('Enter an interger: '))
-if uc==1
+if uc == 1:
     print('How many kilometers?')
-elif uc==2
+elif uc == 2:
     print('How many kilograms?')
-elif uc==3
+elif uc == 3:
     print('How many liters?')
-elif uc==4
+elif uc == 4:
     print('How many degrees in Celsius?')
 
 
