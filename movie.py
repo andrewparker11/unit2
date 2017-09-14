@@ -11,3 +11,5 @@ elif 13>age>10:
     print('The most scandalous movie you can watch is PG-13 rated with a parent or guardian')
 elif 17>age>13:
     print('The most scandalous movie you can watch is R rated with a parent or guardian')
+elif 200>age>17:
+    print('Watch whatever you want')
