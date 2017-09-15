@@ -16,6 +16,7 @@ elif uc == 2:
 elif uc == 3:
     print('How many liters?')
 elif uc == 4:
-    print('How many degrees in Celsius?')
+    deg = int(input('How many degrees in Celsius?'))
+    print((deg*9/5)+32, 'degrees fahrenheit')
 
 
