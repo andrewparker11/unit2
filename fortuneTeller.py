@@ -13,11 +13,11 @@ if color=='blue' and num==3:
     print(')
 if color=='blue' and num==4:
     print(')
-if color=='blue' and num==1:
+if color=='red' and num==1:
     print(')
-if color=='blue' and num==2:
+if color=='red' and num==2:
     print(')
-if color=='blue' and num==3:
+if color=='red' and num==3:
     print(')
-if color=='blue' and num==4:
+if color=='red' and num==4:
     print(')
