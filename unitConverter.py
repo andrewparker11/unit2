@@ -10,16 +10,16 @@ print(' Choose a number: ')
 
 uc = int(input('Enter an interger: '))
 if uc == 1:
-    kilm = int(input('How many kilometers?'))
+    kilm = int(input('How many kilometers? '))
     print((kilm*0.621371), 'miles')
 elif uc == 2:
-    kilg = int(input('How many kilograms?'))
+    kilg = int(input('How many kilograms? '))
     print((kilg*2.20462), 'pounds')
 elif uc == 3:
-    lit = int(input('How many liters?'))
+    lit = int(input('How many liters? '))
     print((lit*0.264172), 'gallons')
 elif uc == 4:
-    deg = int(input('How many degrees in Celsius?'))
+    deg = int(input('How many degrees in Celsius? '))
     print((deg*9/5)+32, 'degrees fahrenheit')
 
 
