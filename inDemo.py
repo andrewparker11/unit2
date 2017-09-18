@@ -6,3 +6,5 @@ word = input('Give a word')
 
 if 'W' in word or 'w' in word:
     print(word, 'is cool')
+else:
+    print(word, 'is not cool')
