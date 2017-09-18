@@ -3,9 +3,7 @@
 #warmup4.py - if has 7 or divisble by 7 says Buzz
 
 num = int(input('Input a Number'))
-num = string(input('Input the same number'))
-
-if num has '7':
+if '7' in str(num) or num%7 == 0:
     print('Buzz')
 else:
     print(num)
