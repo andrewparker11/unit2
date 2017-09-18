@@ -4,4 +4,7 @@
 
 num = int(input('Input a Number'))
 
-if num 
+if num is 7:
+    print('Buzz')
+else:
+    print(num)
