@@ -12,7 +12,7 @@ if num is 1:
 elif num is 2:
     print('You would try to turn on a TV with calculator ')
 elif num is 3:
-    print(' ')
+    print('Have you ever seen voldemort in real life? Look in the mirror. ')
 elif num is 4:
     print(' ')
 elif num is 5:
