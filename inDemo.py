@@ -1,7 +1,8 @@
 #Andrew Parker
 #9/18/17
-#warmup4.py - if has 7 or divisble by 7 says Buzz
+#winDemo.py - Says if word is cool
 
-num = int(input('Input a Number'))
+word = input('Give a word')
 
-if num 
+if 'W' in word or 'w' in word:
+    print(word, 'is cool')
