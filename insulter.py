@@ -14,7 +14,7 @@ elif num is 2:
 elif num is 3:
     print('Have you ever seen voldemort in real life? Look in the mirror. ')
 elif num is 4:
-    print(' ')
+    print('Youre like Rapunzel, except that instead of letting your hair down, you just let down everyone you know. ')
 elif num is 5:
     print(' ')
     
