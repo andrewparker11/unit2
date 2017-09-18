@@ -8,7 +8,7 @@ num = int(input('Pick a number from 1-4 '))
 if color=='blue' and num==1:
     print('You will meet a bunny. A killer bunny')
 elif color=='blue' and num==2:
-    print('You will be trampled in  coop stampede')
+    print('You will be trampled in a coop stampede')
 elif color=='blue' and num==3:
     print('You win 15 dollars from a beauty contest')
 elif color=='blue' and num==4:
