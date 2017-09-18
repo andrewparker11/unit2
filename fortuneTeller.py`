@@ -22,4 +22,4 @@ elif color=='red' and num==3:
 elif color=='red' and num==4:
     print('You win an award. The Darwin award.')
 else: 
-    print('Curse yer name for a thousand and one years. Next time follow the instructions')
+    print('Curse yer name for a thousand and one years. Next time follow the instructions.')
