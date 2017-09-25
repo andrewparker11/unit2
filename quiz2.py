@@ -8,4 +8,6 @@ if num1>num2:
     print('The first number is bigger' )
 elif num2>num1:
     print('The second number is bigger' )
+elif num1==num2:
+    print('The numbers are the same' )
 
