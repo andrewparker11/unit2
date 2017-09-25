@@ -11,7 +11,7 @@ elif num2>num1:
 elif num1==num2:
     print('The numbers are the same' )
 
-if num1%3 == 0 or num2%3 == 0:
+if num1%3 == 0 and num2%3 == 0:
     print('Both numbers are divisible by 3')
 elif num1%3 == 0:
     print('Only the first number is divisible by 3')
